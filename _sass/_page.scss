@@ -191,6 +191,17 @@ header .entry-meta {
 }
 // Post Pagination Module
 .pagination {
+	background-color: $white;
+	box-shadow: 0 0 0 0, 0 6px 12px rgba($base-color,0.1);
+	@include rounded(3px);
+	padding: 25px 15px;
+	@media #{$medium} {
+		padding: 30px;
+	}
+	@media #{$large} {
+		margin-bottom: 30px;
+		padding: 50px 80px;
+	}
 	margin: 20px 10px;
 	text-align: center;
 	ul {
