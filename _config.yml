@@ -15,10 +15,8 @@ menu:
     url: '/curriculum'
   - title: 'Gers Rules'
     url: '/gers-rules'
-  - title: 'Inspiration'
-    url: '/inspiration'
-  - title: 'Player Pics'
-    url: '/pics'
+  - title: 'Homework'
+    url: '/homework'
   - title: 'Contact'
     url: '/contact'
 
