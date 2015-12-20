@@ -396,7 +396,7 @@ ul.social-buttons li a:active {
 	text-align: center;
 	color: $footer-color;
 	a {
-		color: lighten($text-color,20);
+		color: $footer-color;
 	}
 }
 
