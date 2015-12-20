@@ -28,14 +28,14 @@ menu:
 
 # Owner/author information
 owner:
-  name:           Your name
-  site:           http://aronbordin.com
-  avatar:         images/avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  name:           Rangers Soccer Academy
+  # site:           http://aronbordin.com
+  # avatar:         images/avatar.jpg
+  # bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  # email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
   # twitter: aron_bordin
-  facebook:
+  # facebook:
   # github: aron-bordin
   # stackexchange:
   # linkedin:
@@ -43,7 +43,7 @@ owner:
   # flickr:
   # tumblr:
   # google plus id, include the '+', eg +AronBordin
-  google_plus:    +yourid
+  # google_plus:    +yourid
 
 # social:
 #   - title: "github"
