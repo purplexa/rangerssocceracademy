@@ -195,14 +195,7 @@ header .entry-meta {
 	box-shadow: 0 0 0 0, 0 6px 12px rgba($base-color,0.1);
 	@include rounded(3px);
 	margin-bottom: 20px;
-	padding: 10px 15px;
-	@media #{$medium} {
-		padding: 30px;
-	}
-	@media #{$large} {
-		margin-bottom: 30px;
-		padding: 50px 80px;
-	}
+	padding: 15px;
 	text-align: center;
 	ul {
 		display: inline;
