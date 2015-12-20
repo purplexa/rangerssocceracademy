@@ -16,7 +16,6 @@ comments: false
 </article>
 
 {% for post in paginator.posts %}
-{% if post.categories contains "news" %}
 <article class="hentry">
   <header>
     {% if post.image.feature %}
@@ -48,7 +47,6 @@ comments: false
     {% endif %}
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
-{% endif %}
 {% endfor %}
 
 <div class="pagination">
