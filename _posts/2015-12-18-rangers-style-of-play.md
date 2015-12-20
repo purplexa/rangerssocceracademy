@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Homework: Being a Ranger
+title: "Homework: Being a Ranger"
 modified: 2015-12-17
 categories: [homework]
 ---
