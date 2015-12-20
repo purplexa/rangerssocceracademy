@@ -11,20 +11,16 @@ url: https://thrnio.github.io/rangerssocceracademy/
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'About'
-    url: '/about'
-  - title: 'Tags'
-    url: '/tags'
-  - title: 'Categories'
-    url: '/categories'
-    type: 'categories'
-  - title: 'Favorites'
-    url: '#'
-    submenu:
-      - title: 'highlighter'
-        url: '/code-highlighting-post/'
-      - title: 'intro'
-        url: '/readability-post/'
+  - title: 'Curriculum'
+    url: '/curriculum'
+  - title: 'Gers Rules'
+    url: '/gers-rules'
+  - title: 'Inspiration'
+    url: '/inspiration'
+  - title: 'Player Pics'
+    url: '/pics'
+  - title: 'Contact'
+    url: '/contact'
 
 # Owner/author information
 owner:
