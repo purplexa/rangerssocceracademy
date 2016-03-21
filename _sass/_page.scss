@@ -469,6 +469,7 @@ ul.social-buttons li a:active {
 	background-color: $header-color;
 
 	.bss-slides {
+		margin: 70px auto 0;
 		@media #{$large} {
 			max-width: 800px;
 		}
