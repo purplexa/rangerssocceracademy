@@ -21,6 +21,8 @@ menu:
         url: '/about/curriculum'
       - title: 'Gers Rules'
         url: '/about/gers-rules'
+      - title: 'Code of Conduct'
+        url: '/about/conduct'
   - title: 'Homework'
     url: '/hw'
   - title: 'Links'
