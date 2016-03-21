@@ -469,7 +469,9 @@ ul.social-buttons li a:active {
 	background-color: $header-color;
 
 	.bss-slides {
-		max-height: 600px;
+		@media #{$large} {
+			max-width: 800px;
+		}
 	}
 }
 .header-toggle{
