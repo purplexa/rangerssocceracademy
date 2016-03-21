@@ -11,6 +11,8 @@ url: https://thrnio.github.io/rangerssocceracademy
 menu:
   - title: 'Home'
     url: '/'
+  - title: 'Introduction'
+    url: '/introduction'
   - title: 'Curriculum'
     url: '/curriculum'
   - title: 'Gers Rules'
