@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Players' Code of Conduct
+title: Players’ Code of Conduct
 comments: false
 modified: 2016-03-20
 ---
