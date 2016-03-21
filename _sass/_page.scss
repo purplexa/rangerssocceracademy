@@ -467,6 +467,10 @@ ul.social-buttons li a:active {
 	min-height: 220px;
 	overflow: hidden;
 	background-color: $header-color;
+
+	.bss-slides {
+		max-height: 600px;
+	}
 }
 .header-toggle{
 	display: block;
