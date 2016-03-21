@@ -2,6 +2,7 @@ title:            Rangers Soccer Academy
 # description:      Describe your website here.
 reading_time:     false
 comments:         false
+show_search: false
 words_per_minute: 200
 logo:             images/logo.png
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
