@@ -19,6 +19,8 @@ menu:
     url: '/gers-rules'
   - title: 'Homework'
     url: '/hw'
+  - title: 'Soccer Links'
+    url: '/links'
   - title: 'Contact'
     url: '/contact'
 
