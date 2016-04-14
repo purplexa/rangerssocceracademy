@@ -12,7 +12,7 @@ gallery:
 <div class="gallery">
 {% for image in page.gallery %}
   <figure>
-    <a href="#" data-featherlight="{{ image.path }}"><img src="{{ image.thumbnail }}"></a>
+    <a href="{{ image.path }}" data-featherlight="image"><img src="{{ image.thumbnail }}"></a>
     {% if image.caption %}
       <figcaption>{{ image.caption }}</figcaption>
     {% endif %}
