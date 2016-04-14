@@ -23,6 +23,8 @@ menu:
         url: '/about/gers-rules'
       - title: 'Code of Conduct'
         url: '/about/conduct'
+  - title: 'Gallery'
+    url: '/gallery'
   - title: 'Homework'
     url: '/hw'
   - title: 'Links'
