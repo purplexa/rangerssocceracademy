@@ -669,7 +669,7 @@ ul.social-buttons li a:active {
 	margin: 10px;
 
 	img {
-		@include border-radius(10px)
+		@include border-radius(10px);
 		margin: 0;
 	}
 }
