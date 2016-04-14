@@ -27,6 +27,18 @@ body {
 	}
 }
 
+.front-splash {
+	h1 {
+		text-align: center;
+		color: $header-margin;
+	}
+
+	img {
+		display: block;
+		margin: 0 auto;
+	}
+}
+
 ///sections
 
 .content-header-title {
