@@ -656,3 +656,14 @@ ul.social-buttons li a:active {
 		}
 	}
 }
+
+// Gallery
+.gallery figure {
+	@include border-radius(5px);
+
+	width: 210px;
+	height: 210px;
+	float: left;
+	background: $black;
+	padding: 5px;
+}
