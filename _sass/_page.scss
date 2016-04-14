@@ -28,9 +28,11 @@ body {
 }
 
 .front-splash {
-	a h1 {
+	h1 {
 		text-align: center;
-		color: $header-margin;
+		a {
+			color: $header-margin;
+		}
 	}
 
 	img {
