@@ -1,0 +1,21 @@
+---
+layout: post-index
+title: Gallery
+comments: false
+gallery:
+- path: images/slideshow/slide1.jpg
+  thumbnail: images/slideshow/slide1.jpg
+- path: images/slideshow/slide2.png
+  thumbnail: images/slideshow/slide2.jpg
+---
+
+<div class="gallery">
+{% for image in page.gallery %}
+  <figure>
+    <img src="{{ image.thumbnail }}">
+    {% if image.caption %}
+      <figcaption>{{ image.caption }}</figcaption>
+    {% endif %}
+  </figure>
+{% endfor %}
+</div>
