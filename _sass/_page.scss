@@ -659,16 +659,17 @@ ul.social-buttons li a:active {
 
 // Gallery
 .gallery figure {
-	@include border-radius(10px);
+	@include border-radius(10px, 10px, 10px, 10px);
 
 	box-sizing: content-box;
 	width: 200px;
 	float: left;
 	background-color: $header-color;
-	padding: 20px;
-	margin: 20px;
+	padding: 10px;
+	margin: 10px;
 
 	img {
 		@include border-radius(10px)
+		margin: 0;
 	}
 }
