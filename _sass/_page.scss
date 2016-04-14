@@ -393,6 +393,8 @@ ul.social-buttons li a:active {
 // --------------------------------------------------
 .footer-wrapper {
 	@include clearfix;
+
+	clear: both;
 	margin: 2em auto;
 	text-align: center;
 	color: $footer-color;
@@ -659,6 +661,7 @@ ul.social-buttons li a:active {
 
 // Gallery
 .gallery figure {
+	@include clearfix();
 	@include border-radius(10px, 10px, 10px, 10px);
 
 	box-sizing: content-box;
