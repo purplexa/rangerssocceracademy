@@ -666,7 +666,7 @@ ul.social-buttons li a:active {
 
 	box-sizing: content-box;
 	width: 200px;
-	float: left;
+	display: inline-block;
 	background-color: $header-color;
 	padding: 10px;
 	margin: 10px;
